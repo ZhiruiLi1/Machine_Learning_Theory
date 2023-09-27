@@ -1,0 +1,1 @@
+This collection features projects that meticulously implement advanced machine learning theories from the ground up, covering critical concepts like Halfspaces, Linear and Logistic Regression, Regularization, Decision Trees, Naive Bayes, SVM, and K-means.
